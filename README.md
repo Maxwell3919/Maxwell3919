@@ -24,7 +24,7 @@ two-dimensional materials, and reproducible AI-assisted scientific workflows.
 
 <img src="./profile/cow-cat.gif" width="190" alt="Animated cow cat research companion" />
 
-<sub>🐾 research companion · 奶牛猫科研搭子</sub>
+<sub>🐾 My Cat · Talos</sub>
 
 </td>
 </tr>
