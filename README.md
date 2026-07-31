@@ -14,6 +14,16 @@
   <img src="https://img.shields.io/badge/Workflow-Reproducibility-334155?style=flat-square" alt="Reproducible workflows" />
 </p>
 
+<p align="center">
+  <img width="96%" src="./profile/cow-cat-lab.svg" alt="A cow cat research companion surrounded by electronic-structure, phonon and lattice motifs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cow%20Cat-Research%20Companion-111827?style=flat-square" alt="Cow cat research companion" />
+  <img src="https://img.shields.io/badge/Curious%20About-Bands%20%26%20Phonons-1D4ED8?style=flat-square" alt="Curious about bands and phonons" />
+  <img src="https://img.shields.io/badge/Watching-Lattices%20%26%20Electrons-0F766E?style=flat-square" alt="Watching lattices and electrons" />
+</p>
+
 ## Research focus · 研究方向
 
 - **Electronic structure and DFT:** physical models, convergence, provenance, and claim–evidence boundaries.
@@ -25,8 +35,7 @@
 | Project | Scope |
 |---|---|
 | [Vibe-DFT-Skills](https://github.com/Maxwell3919/Vibe-DFT-Skills) | Evidence-aware, portable skills and deterministic checks for density-functional-theory workflows. |
-| [Electronic-Structure-Learning](https://github.com/Maxwell3919/Electronic-Structure-Learning) | A bilingual, interactive learning site for electronic-structure theory and DFT. |
-| [Electronic Structure Learning Site](https://maxwell3919.github.io/Electronic-Structure-Learning/) | Public website with derivations, visual explanations, and chapter-based learning material. |
+| [Electronic-Structure-Learning](https://github.com/Maxwell3919/Electronic-Structure-Learning) | A bilingual, interactive learning site for electronic-structure theory and DFT. [Live site](https://maxwell3919.github.io/Electronic-Structure-Learning/). |
 
 ## Tools · 工具
 
@@ -73,6 +82,8 @@
 </p>
 
 ## Contribution graph
+
+<p align="center">🐾 · electrons · lattices · phonons · reproducible workflows · 🐾</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
