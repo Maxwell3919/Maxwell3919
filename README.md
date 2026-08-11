@@ -25,7 +25,15 @@ research practice.
 
 ---
 
-## Currently building · 当前建设
+## Public site snapshots · 公开站点快照
+
+Both public GitHub Pages sites have reached the initial scope I wanted from them.
+Future development now follows my own research, learning, and day-to-day usage
+needs in other maintenance locations. These GitHub Pages editions are therefore
+no longer actively maintained, but they remain online and openly accessible as
+public snapshots.
+
+这两个公开的 GitHub Pages 网站已经完成了我最初设定的阶段性目标。后续内容会根据我自己的科研、学习与实际使用方向，在其他维护位置继续延伸。因此，这里的 GitHub Pages 版本将停止主动维护，但仍会保持公开访问，作为可继续查阅的公开快照。
 
 ### Electronic Structure Atlas
 
@@ -44,7 +52,7 @@ interpretation, reproducibility, and preservation.
 [Live site](https://maxwell3919.github.io/DFT-Research-Workflow/) ·
 [Repository](https://github.com/Maxwell3919/DFT-Research-Workflow)
 
-### Current research · 当前科研
+## Current research · 当前科研
 
 My current research direction is centered on two-dimensional materials and
 superconductivity, including electronic structure, phonons, density-functional
