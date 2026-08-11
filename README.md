@@ -10,7 +10,6 @@ Student researcher working on electronic structure and density-functional theory
 with a focus on two-dimensional materials, superconductivity, and reproducible
 research practice.
 
-学生研究者，关注电子结构、密度泛函理论、二维材料与超导；也在把学习和科研中遇到的问题整理成公开、可审查的知识与工作流基础设施。
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -25,7 +24,7 @@ research practice.
 
 ---
 
-## Public site snapshots · 公开站点快照
+## Public site snapshots
 
 Both public GitHub Pages sites have reached the initial scope I wanted from them.
 Future development now follows my own research, learning, and day-to-day usage
@@ -33,7 +32,6 @@ needs in other maintenance locations. These GitHub Pages editions are therefore
 no longer actively maintained, but they remain online and openly accessible as
 public snapshots.
 
-这两个公开的 GitHub Pages 网站已经完成了我最初设定的阶段性目标。后续内容会根据我自己的科研、学习与实际使用方向，在其他维护位置继续延伸。因此，这里的 GitHub Pages 版本将停止主动维护，但仍会保持公开访问，作为可继续查阅的公开快照。
 
 ### Electronic Structure Atlas
 
@@ -52,7 +50,7 @@ interpretation, reproducibility, and preservation.
 [Live site](https://maxwell3919.github.io/DFT-Research-Workflow/) ·
 [Repository](https://github.com/Maxwell3919/DFT-Research-Workflow)
 
-## Current research · 当前科研
+## Current research
 
 My current research direction is centered on two-dimensional materials and
 superconductivity, including electronic structure, phonons, density-functional
@@ -60,7 +58,7 @@ perturbation theory, and electron–phonon coupling. I treat convergence,
 provenance, and the boundary between numerical evidence and scientific claims
 as part of the research problem rather than as post-processing details.
 
-## Earlier experiment · 早期探索
+## Earlier experiment
 
 ### Vibe-DFT-Skills
 
@@ -73,13 +71,13 @@ before automating DFT research more aggressively, the underlying workflow of a
 reliable human researcher needs to be understood and expressed more precisely;
 otherwise automation can solidify the wrong abstractions.
 
-## How I work · 工作原则
+## How I work
 
 - **Convergence is observable-specific.** A parameter that is adequate for one quantity does not automatically establish convergence for another.
 - **Provenance and claim boundaries matter.** Inputs, parent calculations, transformations, and acceptance criteria should remain reviewable.
 - **Automation supports scientific judgment.** Deterministic checks and agents can reduce mechanical work, but they do not replace scientific acceptance or interpretation.
 
-## Tools · 工具
+## Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
