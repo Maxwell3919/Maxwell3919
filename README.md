@@ -4,11 +4,11 @@
 
 # Preston · Maxwell3919
 
-**Computational Materials · Electronic Structure · Research Workflows**
+**Computational Materials · Electronic Structure**
 
-Student researcher working on electronic structure and density-functional theory,
-with a focus on two-dimensional materials, superconductivity, and reproducible
-research practice.
+I’m Preston, a student researcher studying electronic structure with
+density-functional theory (DFT). I also build reference notes and tools around
+the calculations I use and learn from.
 
 
 </td>
@@ -24,58 +24,38 @@ research practice.
 
 ---
 
-## Public site snapshots
-
-Both public GitHub Pages sites have reached the initial scope I wanted from them.
-Future development now follows my own research, learning, and day-to-day usage
-needs in other maintenance locations. These GitHub Pages editions are therefore
-no longer actively maintained, but they remain online and openly accessible as
-public snapshots.
-
-
-### Electronic Structure Atlas
-
-A public map of electronic-structure foundations, continuous Core reading,
-guided reading, research methods, computational tools, and reviewed references.
-
-[Live site](https://maxwell3919.github.io/Electronic-Structure-Learning/) ·
-[Repository](https://github.com/Maxwell3919/Electronic-Structure-Learning)
-
-### DFT Research Workflow
-
-A software-neutral, human-first manual for carrying out a DFT study from
-structure and numerical setup through target calculations, validation,
-interpretation, reproducibility, and preservation.
-
-[Live site](https://maxwell3919.github.io/DFT-Research-Workflow/) ·
-[Repository](https://github.com/Maxwell3919/DFT-Research-Workflow)
-
 ## Current research
 
-My current research direction is centered on two-dimensional materials and
-superconductivity, including electronic structure, phonons, density-functional
-perturbation theory, and electron–phonon coupling. I treat convergence,
-provenance, and the boundary between numerical evidence and scientific claims
-as part of the research problem rather than as post-processing details.
+I’m interested in two-dimensional materials and superconductivity. My current
+work involves electronic structure, phonons, density-functional perturbation
+theory (DFPT), and electron–phonon coupling.
 
-## Earlier experiment
+## Atlas
 
-### Vibe-DFT-Skills
+Atlas is the Chinese-language DFT
+reference handbook I’m developing around practical calculation questions. It
+connects physical questions with calculation methods and reproducible
+post-processing, covering electronic structure, phonons, and electron–phonon
+coupling among other material properties.
 
-[Vibe-DFT-Skills](https://github.com/Maxwell3919/Vibe-DFT-Skills) is an earlier
-experiment in evidence-aware AI4DFT tooling: portable Skills, deterministic
-checks, provenance records, and workflow contracts for scientific agents.
+[Browse the handbook](https://maxwell3919.github.io/Atlas/) ·
+[Repository](https://github.com/Maxwell3919/Atlas)
 
-Development is currently paused. The project made a useful point clear to me:
-before automating DFT research more aggressively, the underlying workflow of a
-reliable human researcher needs to be understood and expressed more precisely;
-otherwise automation can solidify the wrong abstractions.
+## Earlier projects
 
-## How I work
-
-- **Convergence is observable-specific.** A parameter that is adequate for one quantity does not automatically establish convergence for another.
-- **Provenance and claim boundaries matter.** Inputs, parent calculations, transformations, and acceptance criteria should remain reviewable.
-- **Automation supports scientific judgment.** Deterministic checks and agents can reduce mechanical work, but they do not replace scientific acceptance or interpretation.
+- **Electronic Structure Atlas** — notes on electronic-structure foundations,
+  research methods, and computational tools. The public edition is a historical
+  snapshot and is no longer actively maintained.
+  [Former site](https://maxwell3919.github.io/Electronic-Structure-Learning/) (currently unavailable) ·
+  [Repository](https://github.com/Maxwell3919/Electronic-Structure-Learning)
+- **DFT Research Workflow** — a software-neutral guide to planning, running,
+  interpreting, and preserving a DFT study. The public edition is also a
+  historical snapshot and is no longer actively maintained.
+  [Site](https://maxwell3919.github.io/DFT-Research-Workflow/) ·
+  [Repository](https://github.com/Maxwell3919/DFT-Research-Workflow)
+- **[Vibe-DFT-Skills](https://github.com/Maxwell3919/Vibe-DFT-Skills)** — an earlier
+  experiment with portable skills and checks for AI-assisted DFT work.
+  Development is paused.
 
 ## Tools
 
