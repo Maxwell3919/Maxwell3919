@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="97.67"
+          width="97.64"
           height="8"
           fill="#f95428"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="97.67"
+          x="97.64"
           y="0"
-          width="68.76"
+          width="68.8"
           height="8"
           fill="#3572A5"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="166.43"
+          x="166.44"
           y="0"
-          width="47.73"
+          width="47.72"
           height="8"
           fill="#e34c26"
         />
@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="214.16"
           y="0"
-          width="16.86"
+          width="16.85"
           height="8"
           fill="#ff5a03"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.01999999999998"
+          x="231.01"
           y="0"
           width="17.43"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.45"
+          x="238.44"
           y="0"
-          width="16.21"
+          width="16.22"
           height="8"
           fill="#f0a9f0"
         />
@@ -211,14 +211,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f95428" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lobster 39.07%
+        Lobster 39.06%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 27.50%
+        Python 27.52%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
